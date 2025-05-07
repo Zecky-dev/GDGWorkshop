@@ -142,9 +142,11 @@ const CreateEditNote = ({route, navigation}) => {
                 {type === 'create' ? 'Not Oluştur' : 'Notu Düzenle'}
               </Text>
             </View>
-            <TouchableOpacity onPress={showDeleteNoteAlert}>
-              <Icon name="delete" color={colors.note_color_red} size={28} />
-            </TouchableOpacity>
+            {type === 'edit' && (
+              <TouchableOpacity onPress={showDeleteNoteAlert}>
+                <Icon name="delete" color={colors.note_color_red} size={28} />
+              </TouchableOpacity>
+            )}
           </View>
 
           <View style={styles.inputsContainer}>

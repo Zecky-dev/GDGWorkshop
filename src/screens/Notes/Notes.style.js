@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
   },
 
   contentContainerStyle: {
-    flex: 1,
+    flexGrow: 1,
     paddingBottom: 12,
   }
 
