@@ -20,7 +20,6 @@ GDG SDU kulübü kapsamında yapmış olduğumuz **React Native Workshop** etkin
 ## 📸 Ekran Görüntüleri
 
 
-<!-- Satır 1 -->
 <p align="center">
   <img src="screenshots/notlarBos.png" height="300px" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,7 +28,6 @@ GDG SDU kulübü kapsamında yapmış olduğumuz **React Native Workshop** etkin
   <img src="screenshots/notOlustur.png" height="300px" />
 </p>
 
-<!-- Satır 2 -->
 <p align="center">
   <img src="screenshots/notDuzenleme.png" height="300px" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
