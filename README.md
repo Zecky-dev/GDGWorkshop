@@ -26,7 +26,7 @@ GDG SDU kulübü kapsamında yapmış olduğumuz **React Native Workshop** etkin
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="screenshots/notlar.png" height="300px" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/notOlusturma.png" height="300px" />
+  <img src="screenshots/notOlustur.png" height="300px" />
 </p>
 
 <!-- Satır 2 -->
