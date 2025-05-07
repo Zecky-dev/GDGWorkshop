@@ -1,5 +1,7 @@
 # GDG Workshop - Not Alma Projesi
 
+![notes (2)](https://github.com/user-attachments/assets/191acf96-dd5b-4e03-a42d-2c05ef8facaa)
+
 GDG SDU kulübü kapsamında yapmış olduğumuz **React Native Workshop** etkinliği için geliştirilmiş olan proje.
 
 ## ⚙️ Özellikler
@@ -63,13 +65,17 @@ GDG SDU kulübü kapsamında yapmış olduğumuz **React Native Workshop** etkin
 
 <br/>
 
-# 📱 Uygulama Kurulumu
+# 📱 Uygulama Bilgileri
 
 Uygulama aşağıdaki şartlar altında test edilmiştir.
 
 - **React Native Versiyon:** 0.78.0
 - **NodeJS Versiyon:** 20.16.0
 - **İşletim Sistemi:** Android
+
+# 📦 APK - v1.0.0
+
+Kullanmak veya test etmek amacıyla [buradan](https://github.com/Zecky-dev/GDGWorkshop/releases/download/v1.0.0/app-release.apk) kurulum yapabilirsiniz.
 
 
 
